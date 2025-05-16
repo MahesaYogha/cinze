@@ -22,7 +22,7 @@
             playsinline
             class="h-[500px] w-full md:h-full md:w-full object-cover object-center"
         >
-            <source src="/public/villa.webm" type="video/webm" />
+            <source src="/public/villa.mp4" type="video/mp4" />
             Browser tidak mendukung video.
         </video>
     </div>
