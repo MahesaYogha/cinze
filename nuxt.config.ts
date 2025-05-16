@@ -4,4 +4,13 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     modules: ["@nuxtjs/tailwindcss"],
     css: ["@/assets/css/fonts.css"],
+     app: {
+    head: {
+      link: [
+        { rel: 'icon', type: 'image/png', href: '/cinze.png' }
+        // atau jika favicon kamu PNG:
+        // { rel: 'icon', type: 'image/png', href: '/favicon.png' }
+      ]
+    }
+  }
 });
