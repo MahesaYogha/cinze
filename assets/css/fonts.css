@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Radiata";
+    src: url("@/assets/fonts/radiata.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Geller";
+    src: url("@/assets/fonts/geller.otf") format("opentype");
+    font-weight: light;
+    font-style: light;
+}
