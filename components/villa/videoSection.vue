@@ -11,7 +11,7 @@
 
 
         </p>
-        <!-- <p class="justify-center text-center max-w-3xl">Here, nature flows into architecture, and time feels beautifully unhurried. Rise with the sun. Explore the peaks. Relax in warm serenity</p> -->
+        <p class="justify-center text-center max-w-3xl">Here, nature flows into architecture, and time feels beautifully unhurried. Rise with the sun. Explore the peaks. Relax in warm serenity</p>
     </div>
     <!-- Video Main -->
     <div class="flex items-center justify-center mt-10 lg:mx-[100px] xl:mx-[300px] mx-0">
