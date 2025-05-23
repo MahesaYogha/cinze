@@ -30,44 +30,22 @@ const villas = [
         location: "Providenciales, Turks and Caicos",
         description:
             "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
-        image: "/img/test.webp",
+        image: "/hotsprings/gridvhs1.webp",
     },
     {
         name: "Amanyara",
         location: "Providenciales, Turks and Caicos",
         description:
             "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
-        image: "/img/test.webp",
+        image: "/hotsprings/gridvhs2.webp",
     },
     {
         name: "Amanyara",
         location: "Providenciales, Turks and Caicos",
         description:
             "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
-        image: "/img/index/Pool View Sunrise 2.png",
-    },
-    {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
-        description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
-        image: "/img/index/Pool View Sunrise 2.png",
-    },
-    {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
-        description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
-        image: "/img/index/Pool View Sunrise 2.png",
-    },
-    {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
-        description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
-        image: "/img/index/Pool View Sunrise 2.png",
-    },
-    
+        image: "/hotsprings/gridvhs3.webp",
+    }, 
 ];
 </script>
 

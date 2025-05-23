@@ -4,7 +4,7 @@
         <NuxtLink to="/villa">
             <div class="relative w-full group overflow-hidden aspect-square md:aspect-[9/6]">
                 <img
-                    src="~assets/index/menu/azuresky.png"
+                    src="~assets/index/menu/menuvilla.webp"
                     alt=""
                     class="w-full h-full object-cover group-hover:scale-110 duration-[1500ms] ease-out"
                 />
@@ -54,16 +54,16 @@
             </div>
         </NuxtLink>
 
-        <!-- Unkwown Link -->
+        <!-- HotSpring Link -->
          <NuxtLink to="/HotSpring">
             
          
         <div class="relative w-full group overflow-hidden aspect-square md:aspect-[9/6]">
             <img
-    src="~assets/index/menu/hotspringmenu.png"
-    alt=""
-    class="w-full h-full object-cover group-hover:scale-110 duration-[1500ms] ease-out" style="transform: scaleX(-1);"
-/>
+                src="~assets/index/menu/menuhotspring.webp"
+                alt=""
+                class="w-full h-full object-cover group-hover:scale-110 duration-[1500ms] ease-out "
+            />
             <div class="absolute inset-0 flex flex-col text-white p-10 xl:px-40 xl:py-24">
                 <div class="flex justify-between">
                     
@@ -112,12 +112,12 @@
         </div>
         </NuxtLink>
 
-        <!-- Unkowwn Link -->
+        <!-- BALOZ Link -->
         <div
             class="relative w-full h-[50vh] group overflow-hidden col-span-2 aspect-square md:aspect-[9/6]"
         >
             <img
-                src="~assets/index/menu/menubalos.jpg"
+                src="~assets/index/menu/menubaloz.webp"
                 alt=""
                 class="w-full h-full object-cover group-hover:scale-110 duration-[1500ms] ease-out"
             />

@@ -1,12 +1,8 @@
 <template>
     <div class="relative h-[200vh] flex flex-col justify-center items-center bg-black">
+        <!-- <img class="object-fill absolute scale-[200"   src="~assets/index/menu/hotspringmenu.png" alt=""> -->
         <img
-    src="~/assets/index/PoolView7.png"
-    alt="background"
-    class="absolute inset-0 w-full h-full object-cover -z-10"
-  />
-        <img
-            src="~/assets/index/PoolView7.png"
+            src="~/assets/img/test.webp"
             alt=""
             class="fade-animation absolute bottom-[300px] right-[100px] w-[100px] h-[100px] md:w-[400px] md:h-[400px] object-cover"
             style="animation-delay: 0s"
@@ -30,7 +26,7 @@
             style="animation-delay: 8s"
         />
         <img
-            src="~assets/img/ayana1.webp"
+            src="~/assets/img/test.webp"
             alt=""
             class="fade-animation absolute bottom-[100px] left-[100px] w-[100px] h-[100px] md:w-[400px] md:h-[400px] object-cover"
             style="animation-delay: 8s"
@@ -41,7 +37,7 @@
         <div class="sticky top-[50%] -translate-y-[50%] z-10">
             <p
                 class="w-full md:max-w-[700px] max-w-[300px] text-center text-sm md:text-2xl lg:text-3xl text-white font-tight"
-    style="line-height: 2;"
+    style="line-height: 1.5;"
             >
                 Lifestyle experiences inspired by the harmony of nature and adventure. Rooted in the spirit of the mountains and the warmth of the rising sun.<br />
                 <br />
