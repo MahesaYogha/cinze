@@ -17,9 +17,11 @@
                 </div>
             </div>
             <div class="flex space-x-6 text-white">
+                <a href="https://www.instagram.com/cinze_naturalhotspring_villas/">
                 <div class="flex space-x-2 items-center justify-center">
                     <img src="~/assets/icons/instagram.svg" alt="instagram logo" class="w-4 h-4" />
                 </div>
+                </a>
                 <div class="flex space-x-2 items-center justify-center">
                     <img src="~/assets/icons/facebook.svg" alt="facebook logo" class="w-4 h-4" />
                 </div>

@@ -99,7 +99,7 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from "vue";
 
-const images = ["/img/test/satu.jpg", "/img/test/dua.jpg", "/img/test/tiga.jpg"];
+const images = ["/img/index/Pool View Sunrise 2.png", "/img/index/restonight.jpg", "/img/index//PoolViewRoom3.png", "/img/index/PoolView1.png"];
 
 const currentImageIndex = ref(0);
 let intervalId = null; // Menyimpan ID interval

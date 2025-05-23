@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-col items-center space-y-10 my-10 lg:mx-[100px] xl:mx-[300px] mx-4">
-        <p class="font-geller text-[28px] leading-[36px] tracking-wider">Villa destinations</p>
+        <p class=" text-[28px] leading-[36px] tracking-wider">Our Galery</p>
         <!-- Villa Grid Container -->
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-14">
             <div v-for="(villa, index) in villas" :key="index" class="flex flex-col">

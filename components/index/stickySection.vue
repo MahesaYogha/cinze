@@ -1,7 +1,12 @@
 <template>
     <div class="relative h-[200vh] flex flex-col justify-center items-center bg-black">
         <img
-            src="~/assets/img/test.webp"
+    src="~/assets/index/PoolView7.png"
+    alt="background"
+    class="absolute inset-0 w-full h-full object-cover -z-10"
+  />
+        <img
+            src="~/assets/index/PoolView7.png"
             alt=""
             class="fade-animation absolute bottom-[300px] right-[100px] w-[100px] h-[100px] md:w-[400px] md:h-[400px] object-cover"
             style="animation-delay: 0s"
@@ -35,15 +40,15 @@
         <!-- Gambar sticky di tengah viewport -->
         <div class="sticky top-[50%] -translate-y-[50%] z-10">
             <p
-                class="w-full md:max-w-[700px] max-w-[300px] text-center text-sm md:text-2xl lg:text-3xl leading-loose text-white font-tight"
+                class="w-full md:max-w-[700px] max-w-[300px] text-center text-sm md:text-2xl lg:text-3xl text-white font-tight"
+    style="line-height: 2;"
             >
-                lifestyle experiences inspired by the harmony of nature and adventure. Rooted in the spirit of the mountains and the warmth of the rising sun.<br />
+                Lifestyle experiences inspired by the harmony of nature and adventure. Rooted in the spirit of the mountains and the warmth of the rising sun.<br />
                 <br />
-                CINZE invites you to embrace every journey — from exhilarating peak explorations to moments of peaceful serenity.<br />
+                CINZE invites you to embrace every journey, from exhilarating peak explorations to moments of peaceful serenity.<br />
                 <br />
 
-                CINZE captures the perfect balance between adventure and tranquility.
-
+                CINZE offers an ideal harmony between excitement and peacefulness.
 
             </p>
         </div>

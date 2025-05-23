@@ -15,8 +15,9 @@
                     :class="isScrolled ? 'scale-90' : 'scale-100'"
                 />
             </NuxtLink>
-            <p class="text-3xl font-bold font-geller">Azure Sky Villa</p>
+            <p class="text-3xl font-normal " style="letter-spacing: 0.2em;">Cinze Villa's</p>
             <!-- Icon -->
+             <a href="https://wa.me/6285735368258">
             <svg
                 fill="#000000"
                 height="30px"
@@ -39,6 +40,7 @@
                     ></path>
                 </g>
             </svg>
+            </a>
         </div>
     </div>
 </template>
