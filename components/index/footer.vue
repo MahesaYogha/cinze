@@ -11,9 +11,9 @@
         <div class="flex flex-col items-center space-y-8">
             <div class="flex space-x-8 text-xl text-white">
                 
-                <p>Reservation</p>
-                <p>Support</p>
-                <p>Careers</p>
+                <NuxtLink to="https://wa.me/6285735368258">Reservation</NuxtLink>
+                <NuxtLink to="http://wa.me/6281236157554">Support</NuxtLink>
+                <NuxtLink to="http://wa.me/6281236157554">Careers</NuxtLink>
  
             </div>
 
@@ -56,7 +56,7 @@
             </div>
         </div>
         <div class="text-white">
-            <p>CINZE</p>
+           <a href="#" @click.prevent="scrollToTop">CINZE</a>
         </div>
     </div>
 
@@ -70,9 +70,9 @@
         <div class="flex flex-col items-center space-y-8">
             <div class="flex flex-col items-center space-y-2">
                 <div class="flex space-x-2 text-sm text-white">
-                    <p>Reservation</p>
-                    <p>Support</p>
-                    <p>Careers</p>
+                    <NuxtLink to="https://wa.me/6285735368258">Reservation</NuxtLink>
+                    <NuxtLink to="http://wa.me/6281236157554">Support</NuxtLink>
+                    <NuxtLink to="http://wa.me/6281236157554">Careers</NuxtLink>
                 </div>
                 <!-- <div class="flex space-x-2 text-sm text-white">
                     <p>Rewards</p>
@@ -81,18 +81,22 @@
                 </div> -->
             </div>
             <div class="flex space-x-6 text-white">
+                <a href="https://www.instagram.com/cinze_naturalhotspring_villas/">
                 <div class="flex space-x-2 items-center justify-center">
                     <img src="~/assets/icons/instagram.svg" alt="instagram logo" class="w-4 h-4" />
                 </div>
+                </a>
                 <div class="flex space-x-2 items-center justify-center">
                     <img src="~/assets/icons/facebook.svg" alt="facebook logo" class="w-4 h-4" />
                 </div>
                 <div class="flex space-x-2 items-center justify-center">
                     <img src="~/assets/icons/youtube.svg" alt="youtube logo" class="w-5 h-5" />
                 </div>
+                <a href="https://www.tiktok.com/@cinze_">
                 <div class="flex space-x-2 items-center justify-center">
                     <img src="~/assets/icons/tiktok.svg" alt="tiktok logo" class="w-4 h-4" />
                 </div>
+                </a>
                 <div class="flex space-x-2 items-center justify-center">
                     <img
                         src="~/assets/icons/tripadvisor.svg"
@@ -103,7 +107,7 @@
             </div>
         </div>
         <div class="text-white">
-            <p>Cinze</p>
+           <a href="#" @click.prevent="scrollToTop">CINZE</a>
         </div>
     </div>
 </template>
@@ -111,3 +115,8 @@
 <script setup></script>
 
 <style scoped></style>
+<script setup>
+function scrollToTop() {
+  window.scrollTo({ top: 0, behavior: 'smooth' })
+}
+</script>

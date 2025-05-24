@@ -20,8 +20,8 @@
              <a href="https://wa.me/6285735368258">
             <svg
                 fill="#000000"
-                height="30px"
-                width="30px"
+                height="40px"
+                width="40px"
                 viewBox="0 0 308 308"
                 xmlns="http://www.w3.org/2000/svg"
             >

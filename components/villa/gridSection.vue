@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-col items-center space-y-10 my-10 lg:mx-[100px] xl:mx-[300px] mx-4">
-        <p class="font-geller text-[28px] leading-[36px] tracking-wider">Our Hot Springs</p>
+        <p class=" font-geller text-[28px] leading-[36px] tracking-wider">Our Facilities</p>
         <!-- Villa Grid Container -->
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-14">
             <div v-for="(villa, index) in villas" :key="index" class="flex flex-col">
@@ -26,45 +26,45 @@
 <script setup>
 const villas = [
     {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
+        name: "Relaxation Balcony",
+        location: "",
         description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
+            "Enjoy a private balcony with natural wooden accents, perfect for relaxing and taking in peaceful garden and privat pool with views.",
         image: "/villa/gridvilla1.webp",
     },
     {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
+        name: "Breathtaking Villa View",
+        location: "",
         description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
+            "Step out onto your private terrace and immerse yourself in stunning panoramic views of lush hills and skies. A perfect spot to relax and connect with nature in complete comfort.",
         image: "/villa/gridvilla2.webp",
     },
     {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
+        name: "Charming Villa Restaurant",
+        location: "",
         description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
+            "Relax and savor delightful meals in our cozy outdoor restaurant, where rustic wooden furniture meets warm natural light—perfect for enjoying fresh flavors in a serene setting.",
         image: "/villa/gridvilla6.webp",
     },
     {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
+        name: "Elegant Bathroom Touches",
+        location: "",
         description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
+            "Enjoy the blend of natural stone and sophisticated design, creating a luxurious and calming bathroom experience just for you.",
         image: "/villa/gridvilla4.webp",
     },
     {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
+        name: "Tranquil Bedroom Comfort",
+        location: "",
         description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
+            "Unwind in a beautifully designed bedroom that offers peaceful ambiance and restful sleep for your perfect getaway.",
         image: "/villa/gridvilla3.webp",
     },
     {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
+        name: "Refreshing Shower",
+        location: "",
         description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
+            "Enjoy a refreshing shower in a fully enclosed space that ensures your privacy while bathing in natural sunlight.",
         image: "/villa/gridvilla5.webp",
     },
     // {

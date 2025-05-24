@@ -2,7 +2,7 @@
     <p
         class="font-geller text-[28px] md:text-[32px] leading-[36px] tracking-wider text-center my-20"
     >
-        Aman Private Homes & Apartments
+        Discover the Packages
     </p>
 
     <!-- Home Slidder -->

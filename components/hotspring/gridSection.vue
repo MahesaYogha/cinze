@@ -26,24 +26,24 @@
 <script setup>
 const villas = [
     {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
+        name: "NScenic Infinity Hot Spring",
+        location: "",
         description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
+            "Enjoy breathtaking views while soaking in our infinity hot spring pools, where nature and luxury come together for an unforgettable experience.",
         image: "/hotsprings/gridvhs1.webp",
     },
     {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
+        name: "Inviting Jacuzzi Retreat",
+        location: "",
         description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
+            "Sink into the warm, bubbling embrace of our jacuzzi where soothing jets melt away stress and every moment feels like pure indulgence.",
         image: "/hotsprings/gridvhs2.webp",
     },
     {
-        name: "Amanyara",
-        location: "Providenciales, Turks and Caicos",
+        name: "Natural Hot Spring Sanctuary",
+        location: "",
         description:
-            "Amanyara’s Villas offer consummate privacy and space in natural surroundings, with generously proportioned living areas and two to six bedrooms set around a black infinity pool.",
+            "Immerse yourself in soothing hot spring pools thoughtfully designed to harmonize with the natural surroundings, offering a peaceful retreat for body and mind.",
         image: "/hotsprings/gridvhs3.webp",
     }, 
 ];

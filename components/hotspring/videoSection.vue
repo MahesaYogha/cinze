@@ -5,7 +5,7 @@
         <p class="justify-center text-center max-w-3xl">
             Cinze Natural Hot Spring is an exclusive sanctuary where pristine, mineral-rich thermal waters cascade gracefully amid breathtaking mountain vistas. 
             Immerse yourself in elegantly designed pools that blend seamlessly with nature, offering unparalleled relaxation and rejuvenation. 
-            Surrounded by lush landscapes and crisp mountain air, this luxurious retreat invites you to indulge in a transformative experience—where wellness meets sublime natural 
+            Surrounded by lush landscapes and crisp mountain air, this luxurious retreat invites you to indulge in a transformative  where wellness meets sublime natural 
             beauty in perfect harmony.
 
 
