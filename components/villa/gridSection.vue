@@ -17,7 +17,7 @@
                     <p class="text-sm line-clamp-3 text-justify">{{ villa.description }}</p>
                 </div>
                 <!-- Discover More -->
-                <p class="mt-4 cursor-pointer hover:underline">Discover More</p>
+                <!-- <p class="mt-4 cursor-pointer hover:underline">Discover More</p> -->
             </div>
         </div>
     </div>

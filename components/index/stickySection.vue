@@ -1,5 +1,5 @@
 <template>
-    <div class="relative h-[200vh] flex flex-col justify-center items-center bg-black">
+    <div class="relative h-[100vh] md:h-[150vh] flex flex-col justify-center items-center bg-black">
         <!-- <img class="object-fill absolute scale-[200"   src="~assets/index/menu/hotspringmenu.png" alt=""> -->
         <img
             src="~/assets/img/test.webp"
@@ -10,7 +10,7 @@
         <img
             src="~/assets/img/test.webp"
             alt=""
-            class="fade-animation absolute bottom-[500px] right-[100px] w-[200px] h-[100px] md:w-[800px] md:h-[400px] object-cover"
+            class="fade-animation absolute bottom-[200px] md:bottom-[500px] right-[100px] w-[200px] h-[100px] md:w-[800px] md:h-[400px] object-cover"
             style="animation-delay: 6s"
         />
         <img

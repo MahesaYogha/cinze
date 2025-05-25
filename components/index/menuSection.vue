@@ -32,10 +32,10 @@
                         </p>
 
                         <button
-                            class="w-8 h-8 md:w-12 md:h-12 transition-colors duration-300 text-black group-hover:text-white bg-white group-hover:bg-transparent rounded-full flex items-center justify-center border-4 border-white"
+                            class="w-8 h-8 md:w-12 md:h-12 transition-colors duration-300 text-black  bg-white group-hover:bg-transparent rounded-full flex items-center justify-center border-4 border-white"
                         >
                             <svg
-                                class="w-6 h-6 text-black hover:text-blue-500 transition-colors duration-300"
+                                class="w-6 h-6 text-black group-hover:text-white hover:text-blue-500 transition-colors duration-300"
                                 fill="none"
                                 stroke="currentColor"
                                 viewBox="0 0 24 24"
@@ -90,10 +90,10 @@
                     </p>
 
                     <button
-                        class="w-8 h-8 md:w-12 md:h-12 transition-colors duration-300 text-black group-hover:text-white bg-white group-hover:bg-transparent rounded-full flex items-center justify-center border-4 border-white"
+                        class="w-8 h-8 md:w-12 md:h-12 transition-colors duration-300 text-black  bg-white group-hover:bg-transparent rounded-full flex items-center justify-center border-4 border-white"
                     >
                         <svg
-                            class="w-6 h-6 text-black hover:text-blue-500 transition-colors duration-300"
+                            class="w-6 h-6 text-black hover:text-blue-500 group-hover:text-white transition-colors duration-300"
                             fill="none"
                             stroke="currentColor"
                             viewBox="0 0 24 24"
@@ -113,13 +113,14 @@
         </NuxtLink>
 
         <!-- BALOZ Link -->
-        <div
-            class="relative w-full h-[50vh] group overflow-hidden col-span-2 aspect-square md:aspect-[9/6]"
+  
+          <div
+            class="relative w-full h-[50vh] group overflow-hidden col-span-2 aspect-square md:aspect-[9/6] "
         >
             <img
                 src="~assets/index/menu/menubaloz.webp"
                 alt=""
-                class="w-full h-full object-cover group-hover:scale-110 duration-[1500ms] ease-out"
+                class="w-full h-full object-cover group-hover:scale-110 duration-[1500ms] ease-out "
             />
             <div class="absolute inset-0 flex flex-col text-white p-10 md:px-40 md:py-24">
                 <div class="flex justify-between">
@@ -142,7 +143,7 @@
                         class="w-8 h-8 md:w-12 md:h-12 transition-colors duration-300 text-black group-hover:text-white bg-white group-hover:bg-transparent rounded-full flex items-center justify-center border-4 border-white"
                     >
                         <svg
-                            class="w-6 h-6 text-black hover:text-blue-500 transition-colors duration-300"
+                            class="w-6 h-6 text-black hover:text-blue-500 group-hover:text-white transition-colors duration-300"
                             fill="none"
                             stroke="currentColor"
                             viewBox="0 0 24 24"
@@ -159,6 +160,7 @@
                 </div>
             </div>
         </div>
+      
     </div>
 </template>
 

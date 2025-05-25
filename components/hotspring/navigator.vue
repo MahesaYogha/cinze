@@ -15,7 +15,7 @@
                     :class="isScrolled ? 'scale-90' : 'scale-100'"
                 />
             </NuxtLink>
-            <p class="text-3xl font-normal ">Cinze Natural Hot Springs</p>
+            <p class=" md:text-3xl text-lg font-normal ">Cinze Natural Hot Springs</p>
             <!-- Icon -->
             <svg
                 fill="#000000"
