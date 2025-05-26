@@ -2,7 +2,7 @@
     <!-- Text Head Main -->
     <div class="flex flex-col items-center space-y-10 lg:mx-[100px] xl:mx-[300px] mx-4">
         <!-- <p class="font-geller text-[28px] leading-[36px] tracking-wider">Villas</p> -->
-        <p class="justify-center text-center max-w-3xl">
+        <p class="justify-center text-center max-w-3xl text-lg">
             Cinze Natural Hot Spring is an exclusive sanctuary where pristine, mineral-rich thermal waters cascade gracefully amid breathtaking mountain vistas. 
             Immerse yourself in elegantly designed pools that blend seamlessly with nature, offering unparalleled relaxation and rejuvenation. 
             Surrounded by lush landscapes and crisp mountain air, this luxurious retreat invites you to indulge in a transformative  where wellness meets sublime natural 

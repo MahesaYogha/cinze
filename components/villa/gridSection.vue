@@ -1,6 +1,9 @@
 <template>
     <div class="flex flex-col items-center space-y-10 my-10 lg:mx-[100px] xl:mx-[300px] mx-4">
-        <p class=" font-geller text-[28px] leading-[36px] tracking-wider">Our Facilities</p>
+        <p class=" font-geller text-[28px] leading-[36px] tracking-wider">Experience Thoughtful Comfort at Cinze Villa’s</p>
+        <p class="justify-center text-center max-w-6xl text-lg">
+            At Cinze Villa’s, every detail is designed to elevate your stay. From tranquil private balconies and scenic terrace views to our inviting open-air restaurant, our facilities blend natural beauty with refined comfort. Whether you’re unwinding by your private pool or savoring a warm meal in the sunshine, each space is crafted to help you reconnect with nature — and yourself.
+        </p>
         <!-- Villa Grid Container -->
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-14">
             <div v-for="(villa, index) in villas" :key="index" class="flex flex-col">

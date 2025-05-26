@@ -1,18 +1,18 @@
 <template>
     <div class="bg-white">
         <div
-            class="flex flex-col md:flex-row items-center justify-between py-6 md:mx-[250px] space-y-4"
+            class="flex flex-col md:flex-row items-center justify-between py-4 md:mx-[250px] space-y-4"
         >
             <NuxtLink to="/">
                 <img src="~/assets/img/cinze.png" alt="Footer Logo" class="max-w-14" />
             </NuxtLink>
-            <div class="flex space-x-6 items-center">
+            <div class="flex flex-col md:flex-row space-x-6 items-center space-y-2 md:space-y-0">
                 <p>Follow us on:</p>
                 <div class="flex space-x-2 items-center">
                     <svg
                         fill="#000000"
-                        height="30px"
-                        width="30px"
+                        height="32px"
+                        width="32px"
                         version="1.1"
                         id="Layer_1"
                         xmlns="http://www.w3.org/2000/svg"
@@ -113,7 +113,7 @@
                     </svg>
                 </div>
             </div>
-            <p>Azure Sky Villa</p>
+            <p class="font-bold md:text-2xl">Cinze Natural Hot Spring</p>
         </div>
     </div>
 </template>

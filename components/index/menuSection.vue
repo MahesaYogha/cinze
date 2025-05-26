@@ -115,12 +115,12 @@
         <!-- BALOZ Link -->
   
           <div
-            class="relative w-full h-[50vh] group overflow-hidden col-span-2 aspect-square md:aspect-[9/6] "
+            class="relative w-full h-[50vh] group overflow-hidden col-span-2 aspect-square md:aspect-[9/6]  "
         >
             <img
                 src="~assets/index/menu/menubaloz.webp"
                 alt=""
-                class="w-full h-full object-cover group-hover:scale-110 duration-[1500ms] ease-out "
+                class="w-full h-full object-cover group-hover:scale-110 duration-[1500ms] ease-out  "
             />
             <div class="absolute inset-0 flex flex-col text-white p-10 md:px-40 md:py-24">
                 <div class="flex justify-between">
