@@ -2,31 +2,31 @@
     <div class="relative h-[100vh] md:h-[150vh] flex flex-col justify-center items-center bg-black">
         <!-- <img class="object-fill absolute scale-[200"   src="~assets/index/menu/hotspringmenu.png" alt=""> -->
         <img
-            src="~/assets/index/stiky/stiky1.webp"
+            src="~/assets/index/stiky/Stiky1.webp"
             alt=""
             class="fade-animation absolute bottom-[300px] right-[50px] w-[150px] h-[150px] md:w-[400px] md:h-[400px] object-cover"
             style="animation-delay: 0s"
         />
         <img
-            src="~/assets/index/stiky/stiky2.webp"
+            src="~/assets/index/stiky/Stiky2.webp"
             alt=""
             class="fade-animation absolute bottom-[200px] md:bottom-[850px] right-[150px] w-[200px] h-[100px] md:w-[800px] md:h-[400px] object-cover"
             style="animation-delay: 6s"
         />
         <img
-            src="~/assets/index/stiky/stiky5.webp"
+            src="~/assets/index/stiky/Stiky5.webp"
             alt=""
             class="fade-animation absolute bottom-[10px] left-[100px] w-[200px] h-[100px] md:w-[700px] md:h-[400px]  object-cover"
             style="animation-delay: 2s"
         />
         <img
-            src="~/assets/index/stiky/stiky3.webp"
+            src="~/assets/index/stiky/Stiky3.webp"
             alt=""
             class="fade-animation absolute top-[250px] left-[10px] md-left-[100px] w-[100px] h-[100px] md:w-[600px] md:h-[600px] object-cover"
             style="animation-delay: 5s"
         />
         <img
-            src="~/assets/index/stiky/stiky4.webp"
+            src="~/assets/index/stiky/Stiky4.webp"
             alt=""
             class="fade-animation absolute bottom-[100px] left-1/2 transform -translate-x-1/2 w-[150px] h-[150px] md:w-[600px] md:h-[600px] object-cover"
             style="animation-delay: 8s"
