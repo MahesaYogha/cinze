@@ -1,10 +1,6 @@
 <template>
-    <p
-        class="font-geller text-[28px] md:text-[32px] leading-[36px] tracking-wider text-center my-20"
-    >
-        Discover the Packages
-    </p>
-
+   <br>
+   <br>
     <!-- Home Slidder -->
     <div class="mx-auto overflow-x-auto snap-x flex space-x-14 mb-10 pb-10 md:w-[70%] w-[90%]">
         <div
