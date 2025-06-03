@@ -2,15 +2,15 @@
    <br>
    <br>
     <!-- Home Slidder -->
-    <div class="mx-auto overflow-x-auto snap-x flex space-x-14 mb-10 pb-10 md:w-[70%] w-[90%]">
+    <div class="mx-auto overflow-x-auto snap-x flex space-x-14 mb-10  pb-10 md:w-[75%] w-[90%] ">
         <div
             v-for="(home, index) in homes"
             :key="index"
-            class="snap-center space-y-4 flex flex-col flex-shrink-0 md:w-[650px] w-[350px] items-center justify-center"
+            class="snap-center space-y-4 flex flex-col flex-shrink-0 md:w-[650px] w-svw "
         >
-            <img :src="home.image" :alt="home.name" class="w-full w-[600px] h-[600px] aspect-square md:aspect-auto object-cover object-center" />
-            <p class="font-geller text-2xl text-center">{{ home.name }}</p>
-            <p class="text-sm text-justify md:text-center mt-2 line-clamp-3r">{{ home.description }}</p>
+            <img :src="home.image" :alt="home.name" class="w-full  h-[550px]  object-cover" />
+            <p class="font-geller  text-2xl text-center">{{ home.name }}</p>
+            <p class="text-center  ">{{ home.description }}</p>
         </div>
     </div>
 </template>
