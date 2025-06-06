@@ -10,7 +10,7 @@
         <img
             src="~/assets/index/stiky/Stiky2.webp"
             alt=""
-            class="fade-animation absolute bottom-[200px] md:bottom-[850px] right-[150px] w-[200px] h-[100px] md:w-[800px] md:h-[400px] object-cover"
+            class="fade-animation absolute bottom-[250px] md:bottom-[850px] right-[150px] w-[200px] h-[100px] md:w-[800px] md:h-[400px] object-cover"
             style="animation-delay: 6s"
         />
         <img
