@@ -73,7 +73,7 @@
                     </div>
                     <div class="flex flex-col justify-center">
                         <p class="text-sm xl:text-2xl uppercase font-semibold text-right">Cinze</p>
-                        <p class="text-4xl xl:text-5xl font-semibold italic text-right">Naural Hot Spring</p>
+                        <p class="text-4xl xl:text-5xl font-semibold italic text-right">Natural Hot Spring</p>
                     </div>
                 </div>
                 <div class="mt-auto flex justify-between items-end w-full">

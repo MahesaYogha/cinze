@@ -37,7 +37,7 @@
                 </div>
                 <a href="https://www.tiktok.com/@cinze_">
                 <div class="flex space-x-2 items-center justify-center">
-                    <p class="text-lg">Titok</p>
+                    <p class="text-lg">Tiktok</p>
 
                     <img src="~/assets/icons/tiktok.svg" alt="tiktok logo" class="w-4 h-4" />
                 </div>
