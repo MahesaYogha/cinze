@@ -2,7 +2,7 @@
     <div class="bg-[#f3eee7] relative">
         <!-- Sticky Whatsapp Icon -->
         <a 
-            href="https://wa.me/6285735368258?text=Halo%2C%20saya%20tertarik%20untuk%20booking%20kamar%20di%20Cinze%20Villa.%20Mohon%20info%20ketersediaan%20dan%20harganya%2C%20ya."
+            href="https://api.whatsapp.com/send?phone=6285735368258&text=Halo%2C%20saya%20tertarik%20untuk%20booking%20kamar%20di%20Cinze%20Villa.%20Mohon%20info%20ketersediaan%20dan%20harganya%2C%20ya."
             target="_blank" 
             rel="noopener noreferrer"
             class="md:bottom-10 md:right-10 bottom-8 right-4 fixed z-10"
